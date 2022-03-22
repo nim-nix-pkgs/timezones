@@ -9,7 +9,7 @@
   
   inputs.src-timezones-master.flake = false;
   inputs.src-timezones-master.owner = "GULPF";
-  inputs.src-timezones-master.ref   = "refs/heads/master";
+  inputs.src-timezones-master.ref   = "master";
   inputs.src-timezones-master.repo  = "timezones";
   inputs.src-timezones-master.type  = "github";
   
