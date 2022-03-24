@@ -1,5 +1,5 @@
 {
-  description = ''Timezone library compatible with the standard library. '';
+  description = ''Timezone library compatible with the standard library'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
