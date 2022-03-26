@@ -11,6 +11,7 @@
   inputs.src-timezones-v0_5_2.ref   = "refs/tags/v0.5.2";
   inputs.src-timezones-v0_5_2.owner = "GULPF";
   inputs.src-timezones-v0_5_2.repo  = "timezones";
+  inputs.src-timezones-v0_5_2.dir   = "";
   inputs.src-timezones-v0_5_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
